@@ -1,0 +1,22 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "Wedding Invitation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKAUL05/wedding-invitation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKAUL05/wedding-invitation/issues"
+  },
+  "homepage": "https://github.com/SKAUL05/wedding-invitation#readme",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
