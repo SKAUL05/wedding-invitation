@@ -9,7 +9,7 @@ $(document).on('click', function(){
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("Dec 3, 2022 11:00:00").getTime();
+var countDownDate = new Date("Dec 3, 2022 10:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -77,6 +77,6 @@ console.log('\n\n%c SAVE THE DATE: 3rd Dec, 2022!', styles);
 console.log('%cYour presence is requested!%c\n\nRegards: Sarath Kaul', styles1, styles2);
 
 console.log(
-    `%cShaadi me zaroor aana!\n\n`,
+    `%cBadi Mushkil Se Bani Yeh Site!\n\n`,
     'color: yellow; background:tomato; font-size: 24pt; font-weight: bold',
 )
