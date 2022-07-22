@@ -495,7 +495,7 @@ body {
 }
 
 .block {
-	width: 100px;
+	width: 90px;
 	height: 100px;
 	display: flex;
 	justify-content: center;
